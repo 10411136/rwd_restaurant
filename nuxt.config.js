@@ -18,7 +18,7 @@ export default {
     ],
     script: [
       {
-        async: true,
+        // async: true,
         src: 'https://unpkg.com/scrollreveal'
       }
     ]
