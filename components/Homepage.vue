@@ -433,7 +433,7 @@
             </ul>
           </div>
         </div>
-        <p class="footer__copy">&#169; 2020 Bedimcode. All right reserved.</p>
+        <p class="footer__copy">&#169; 2021 YuLin. All right reserved.</p>
       </footer>
   </div>
 </template>
