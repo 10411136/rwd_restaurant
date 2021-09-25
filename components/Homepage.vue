@@ -613,7 +613,8 @@ body.dark-theme{
 .change-theme{
   position: absolute;
   right: 1rem;
-  top: 1.8rem;
+  /* top: 1.8rem; */
+  bottom: 1.8rem;
   color: var(--text-color);
   font-size: 1rem;
   cursor: pointer;
